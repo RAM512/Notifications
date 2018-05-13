@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="notification_content_title">Notification title</string>
+    <string name="notification_content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia eros sed justo aliquet, nec accumsan nunc vestibulum. Nulla augue dolor, volutpat ut luctus id, commodo eget neque. Aliquam dapibus lectus eu vestibulum vestibulum. Curabitur viverra, arcu a pretium dignissim, sem mauris venenatis est, sit amet vulputate justo nibh at magna. Aenean placerat augue ex, eu interdum mi semper quis. Sed quis libero dolor. Pellentesque at neque consectetur, molestie arcu ac, ullamcorper quam. Fusce volutpat elit ut nisi consectetur, nec mattis tortor luctus. Etiam orci nibh, varius ac commodo at, porta eu neque. Donec neque risus, mattis eget congue sed, pretium eget turpis. Ut at laoreet ipsum.</string>
+    <string name="channel1_name">channel1 name</string>
+    <string name="channel1_description">This is channel1 description</string>
+    <string name="reply_label">reply label</string>
+</resources>
