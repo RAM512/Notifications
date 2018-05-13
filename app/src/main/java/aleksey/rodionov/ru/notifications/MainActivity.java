@@ -142,6 +142,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private Intent getMessageReplyIntent(int conversationId) {
-        return new Intent(REPLY_ACTION).putExtra(CONVERSATION_KEY, conversationId);
+        Intent intent = new Intent(getApplicationContext(), ReplyReceiver.class)
+                .setAction(REPLY_ACTION)
+                .putExtra(CONVERSATION_KEY, conversationId);
+        return intent;
     }
 }
